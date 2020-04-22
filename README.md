@@ -4,3 +4,5 @@
 2. Edit `index.js` file.
 3. Adjust `routes` in `now.json`.
 4. Run `npx now --prod`.
+
+Live example: [https://now-express-gold.now.sh](https://now-express-gold.now.sh)
